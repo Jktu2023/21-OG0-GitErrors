@@ -37,7 +37,8 @@
   "keyToString": {
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "dev"
   }
 }]]></component>
   <component name="SharedIndexes">
